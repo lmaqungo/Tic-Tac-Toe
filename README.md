@@ -1,6 +1,6 @@
 # Java Tic Tac Toe game
 
-Developed a simple tic tac clone as a Java refresher. Planning to add an AI in the future as a challenge.
+Developed a simple tic-tac-toe clone as a Java refresher. Planning to add an AI in the future as a challenge.
 
 ![alt-text](https://raw.githubusercontent.com/lmaqungo/Tic-Tac-Toe/refs/heads/main/Media/Screenshot%20(486).png "game ui")
 
