@@ -11,7 +11,7 @@ Developed a simple tic tac clone as a Java refresher. Planning to add an AI in t
 2. Install Git  
    https://git-scm.com/download/win
 
-4. Open git-bash and type:
+3. Open git-bash and type:
 ```bash
 git clone https://github.com/lmaqungo/Tic-Tac-Toe.git
 cd Tic-Tac-Toe
